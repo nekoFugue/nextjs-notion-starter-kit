@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lian blog',
-  domain: '*',
+  domain: 'notion-blog-weld-omega.vercel.app',
   author: 'Yining',
 
   // open graph metadata (optional)
